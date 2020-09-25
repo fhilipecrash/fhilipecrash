@@ -1,5 +1,11 @@
-<h2 align="center">Hello world! I'm Fhilipe.</h2>
-<h3 align="center">Mobile and Indie Game Developer.</h3>
+<p align="center">
+  <samp>
+    I'm Fhilipe Coelho :wave:
+    <br><br>
+    I work as a Mobile :iphone: and Game 🎮 developer!
+  </samp>
+</p>
+
 
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=FhilipeCrash&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
