@@ -10,7 +10,7 @@ Technologies I'm learning and developing:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![ReactNative](https://img.shields.io/badge/-React%20Native-lightgrey?style=flat-square&logo=react)
+![ReactNative](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 ![CSharp](https://img.shields.io/badge/C%23-informational?style=flat-square&logo=c-sharp)
 ![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
