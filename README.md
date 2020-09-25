@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/levxyca?style=social)](https://twitter.com/fhilipecrash)
-[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fhilipecoelho/)](https://www.linkedin.com/in/fhilipecoelho/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/fhilipecrash?style=social)](https://twitter.com/fhilipecrash)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fhilipecoelho/)](https://www.linkedin.com/in/fhilipecoelho/)
 
 
 Technologies I'm learning and developing:
