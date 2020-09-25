@@ -13,7 +13,7 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fhilipecoelho/)](https://www.linkedin.com/in/fhilipecoelho/)
 
 
-Technologies I'm learning and developing:
+<b>Technologies I'm learning and developing:</b>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
