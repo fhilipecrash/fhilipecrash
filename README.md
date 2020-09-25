@@ -1,6 +1,8 @@
-### Hi there 👋
- [![Twitter Follow](https://img.shields.io/twitter/follow/fhilipecrash?style=social)](https://twitter.com/fhilipecrash)
- [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fhilipecoelho/)](https://www.linkedin.com/in/fhilipecoelho/)
+<h2 align="center">Hello world! I'm Fhilipe.</h2>
+<h3 align="center">Mobile and Indie Game Developer.</h3>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/fhilipecrash?style=social)](https://twitter.com/fhilipecrash)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fhilipecoelho/)](https://www.linkedin.com/in/fhilipecoelho/)
 
 
 Technologies I'm learning and developing:
