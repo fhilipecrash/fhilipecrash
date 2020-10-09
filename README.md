@@ -2,7 +2,7 @@
   <samp>
     I'm Fhilipe Coelho :wave:
     <br><br>
-    I work as a Mobile :iphone: and Game 🎮 developer!
+    I work as a Mobile :iphone: developer!
   </samp>
 </p>
 
@@ -19,8 +19,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![ReactNative](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
-![CSharp](https://img.shields.io/badge/C%23-informational?style=flat-square&logo=c-sharp)
-![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
