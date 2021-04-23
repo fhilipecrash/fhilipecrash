@@ -25,7 +25,7 @@ I'm a Mobile Developer & Linux Enthusiast!
 
 [<img align="left" alt="FhilipeCrash | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
 [<img align="left" alt="FhilipeCrash | Reddit" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit]
-[<img align="left" alt="FhilipeCrash | Github" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/919/919847.svg?token=exp=1619186511~hmac=42fdd4db1c9c026c9b606dd85b4bb095" />][github]
+[<img align="left" alt="FhilipeCrash | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
 [<img align="left" alt="FhilipeCrash | Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
 [<img align="left" alt="FhilipeCrash | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
 
