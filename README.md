@@ -1,15 +1,9 @@
 <!-- List of Websites -->
-[twitter]: https://www.twitter.com/fhilipecrash
-[reddit]: https://www.reddit.com/user/FhilipeCrash
-[github]: https://www.github.com/FhilipeCrash
-[linkedin]: https://www.linkedin.com/in/fhilipecoelho/
 [gmail]: mailto:coelhocrash11@gmail.com
-
-<div>
-  <img alt="FhilipeCrash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FhilipeCrash&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula">
-  <img alt="FhilipeCrash's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FhilipeCrash&layout=compact&theme=dracula&hide_border=true">
-</div>
-
+[reddit]: https://www.reddit.com/user/FhilipeCrash
+[twitter]: https://www.twitter.com/fhilipecrash
+[linkedin]: https://www.linkedin.com/in/fhilipecoelho/
+[github]: https://www.github.com/FhilipeCrash
 
 ### Hi there, I'm Fhilipe Coelho 👋
 
@@ -20,40 +14,31 @@ I'm a Mobile Developer & Linux Enthusiast!
 - 🥅 2021 Goals: Improve my skills and get a job opening
 - ⚡ Fun fact: I love 🎮 | 🎶 | 🐱 | 💻
 
-### Connect with me:
+<div>
+  <img height="150em" alt="FhilipeCrash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FhilipeCrash&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula">
+  <img height="150em" alt="FhilipeCrash's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FhilipeCrash&layout=compact&theme=dracula&hide_border=true">
+</div>
 
-[<img align="left" alt="FhilipeCrash | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
-[<img align="left" alt="FhilipeCrash | Reddit" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit]
-[<img align="left" alt="FhilipeCrash | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
-[<img align="left" alt="FhilipeCrash | Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
-[<img align="left" alt="FhilipeCrash | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
+### Contact me:
+
+<div>
+  <a href="mailto:coelhocrash11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.reddit.com/user/FhilipeCrash" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitter.com/fhilipecrash" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fhilipecoelho/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+</div>
+
+### Languages:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Fhilipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Fhilipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Fhilipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Fhilipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Fhilipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Fhilipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Fhilipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
 
 <br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://www.google.com/search?&q=Visual+Studio+Code)
-[<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" />](https://www.google.com/search?&q=Bash)
-[<img align="left" alt="React Native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />](https://www.google.com/search?&q=React+Navtive)
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://www.google.com/search?&q=Git)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://www.google.com/search?&q=Github)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://www.google.com/search?&q=command+line+interface)
-[<img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />](https://www.google.com/search?&q=Linux)
-[<img align="left" alt="Windows" width="26px" src="https://image.flaticon.com/icons/svg/882/882702.svg" />](https://www.google.com/search?&q=Windows)
-
-<br />
-
-<!--
-**FhilipeCrash/FhilipeCrash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
