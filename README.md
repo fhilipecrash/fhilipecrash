@@ -9,7 +9,7 @@
 
 I'm a Mobile Developer & Linux Enthusiast!
 - 🔭 I’m currently doing life related stuff
-- 🌱 I’m currently learning `react-native`
+- 🌱 I’m currently learning `c-sharp`
 - 👯 I’m looking to collaborate with developers of all kinds
 - 🥅 2021 Goals: Improve my skills and get a job opening
 - ⚡ Fun fact: I love 🎮 | 🎶 | 🐱 | 💻
