@@ -15,8 +15,8 @@ I'm a Mobile Developer & Linux Enthusiast!
 - ⚡ Fun fact: I love 🎮 | 🎶 | 🐱 | 💻
 
 <div>
-  <img height="150em" alt="FhilipeCrash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FhilipeCrash&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula">
-  <img height="150em" alt="FhilipeCrash's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FhilipeCrash&layout=compact&theme=dracula&hide_border=true">
+  <img height="150em" alt="FhilipeCrash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FhilipeCrash&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight">
+  <img height="150em" alt="FhilipeCrash's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FhilipeCrash&layout=compact&theme=tokyonight&hide_border=true">
 </div>
 
 ### Contact me:
