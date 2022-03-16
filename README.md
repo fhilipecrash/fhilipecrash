@@ -8,11 +8,9 @@
 ### Hi there, I'm Fhilipe Coelho 👋
 
 I'm a Mobile Developer & Linux Enthusiast!
-- 🔭 I’m currently doing life related stuff
 - 🌱 I’m currently learning `c-sharp`
-- 👯 I’m looking to collaborate with developers of all kinds
-- 🥅 2022 Goals: Improve my skills and get a job opening
-- ⚡ Fun fact: I love 🎮 | 🎶 | 🐱 | 💻
+- 💻 Computer Technician - IFPI
+- 📚 Computer Science Student - UESPI
 
 <div>
   <img height="150em" alt="FhilipeCrash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FhilipeCrash&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark">
