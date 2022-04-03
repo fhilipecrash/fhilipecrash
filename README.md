@@ -14,7 +14,6 @@ I'm a Mobile Developer & Linux Enthusiast!
 
 <div>
   <img height="150em" alt="FhilipeCrash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FhilipeCrash&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&hide_rank=true">
-  <img height="150em" alt="FhilipeCrash's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FhilipeCrash&layout=compact&theme=github_dark&hide_border=true&langs_count=6">
 </div>
 
 ### Contact me:
