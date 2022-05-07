@@ -3,7 +3,7 @@
 [reddit]: https://www.reddit.com/user/FhilipeCrash
 [twitter]: https://www.twitter.com/fhilipecrash
 [linkedin]: https://www.linkedin.com/in/fhilipecoelho/
-[github]: https://www.github.com/FhilipeCrash
+[github]: https://www.github.com/fhilipecrash
 
 ### Hi there, I'm Fhilipe Coelho 👋
 
@@ -13,8 +13,8 @@ I'm a Mobile Developer & Linux Enthusiast!
 - 📚 Computer Science Student - UESPI
 
 <div>
-  <img height="150em" alt="FhilipeCrash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FhilipeCrash&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&hide_rank=true">
-  <img height="150em" alt="FhilipeCrash's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FhilipeCrash&layout=compact&theme=github_dark&hide_border=true&langs_count=6">
+  <img height="150em" alt="FhilipeCrash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fhilipecrash&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&hide_rank=true">
+  <img height="150em" alt="FhilipeCrash's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhilipecrash&layout=compact&theme=github_dark&hide_border=true&langs_count=6">
 </div>
 
 ### Contact me:
