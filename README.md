@@ -8,15 +8,15 @@
 ### Hi there, I'm Fhilipe Coelho 👋
 
 I'm a Mobile Developer & Linux Enthusiast!
-- 🌱 I’m currently learning `c-sharp`
+- 🌱 I’m currently learning `c`
 - 💻 Computer Technician - IFPI
 - 📚 Computer Science Student - UESPI
-
+<!--
 <div>
   <img height="150em" alt="FhilipeCrash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fhilipecrash&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&hide_rank=true">
   <img height="150em" alt="FhilipeCrash's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhilipecrash&layout=compact&theme=github_dark&hide_border=true&langs_count=6">
 </div>
-
+-->
 ### Contact me:
 
 <div>
