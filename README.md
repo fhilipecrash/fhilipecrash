@@ -7,7 +7,7 @@
 
 ### Hi there, I'm Fhilipe Coelho 👋
 
-I'm a Mobile Developer & Linux Enthusiast!
+I'm a Developer & Linux Enthusiast!
 - 🌱 I’m currently learning `c`, `laravel` and `angular`
 - 💻 Computer Technician - IFPI
 - 📚 Computer Science Student - UESPI
