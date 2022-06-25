@@ -8,7 +8,7 @@
 ### Hi there, I'm Fhilipe Coelho 👋
 
 I'm a Developer & Linux Enthusiast!
-- 🌱 I’m currently learning `c`, `laravel` and `angular`
+- 🌱 I’m currently learning `c`, `laravel` and `react`
 - 💻 Computer Technician - IFPI
 - 📚 Computer Science Student - UESPI
 - 👔 Intern at Escritha Platform
