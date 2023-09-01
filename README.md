@@ -11,7 +11,6 @@ I'm a Developer & Linux Enthusiast!
 - 🌱 I’m currently learning a lot of things
 - 💻 Computer Technician - IFPI
 - 📚 Computer Science Student - UESPI
-- 👔 Web Developer at Escritha
 <!--
 <div>
   <img height="150em" alt="FhilipeCrash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fhilipecrash&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&hide_rank=true">
